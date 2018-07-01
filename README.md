@@ -7,13 +7,14 @@
                |___/
 ```
 
-**@angular/cli:** 1.5.5<br/>
+**@angular/cli:** 6.0.8<br/>
 **node:** 6.11.2<br/>
 **npm:** 3.10.10<br/>
 **yarn:** 0.24.6<br/>
 **os:** linux x64<br/>
 **package manager:** yarn<br/>
-**docker hub:** https://hub.docker.com/r/alexsuch/angular-cli/
+**docker hub:** https://hub.docker.com/r/invertisment/node-angular-git/
+**git**
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/alexsuch/angular-cli.svg)](https://hub.docker.com/r/alexsuch/angular-cli/)
 
